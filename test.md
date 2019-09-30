@@ -54,9 +54,9 @@ list1
 ### range的技術(3)
 
 ```
-list3=range(1,6,2)
+list3=range(1,6,3)
 list3
-答案是:[1, 3, 5]
+答案是:[1, 4]
 ```
 
 ### range的技術(4)
