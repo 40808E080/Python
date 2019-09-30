@@ -31,7 +31,7 @@ Ch16-19
 
 # range的技術
 
-# range的技術(1)
+## range的技術(1)
 
 
 ```
@@ -42,11 +42,10 @@ list1
 答案是:[0, 7]
 ```
 
-# range的技術(2)
-
-## list(range(1,7))
+## range的技術(2)
 
 ```
+#list(range(1,7))
 #list2=range(1,7)
 #list2
 答案是[1, 2, 3, 4, 5, 6]
